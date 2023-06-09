@@ -6,7 +6,10 @@ summary: The AI Beginners reading list is aimed towards the AI curious looking
 metaDescription: The AI Beginners reading list is aimed towards the AI curious
   looking to go down the rabbit hole not the AI expert.
 tags:
-  - post
+  - ai
+  - agi
+  - openai
+  - chatgpt
 ---
 This AI Beginners Reading List was put together by Jack Soslow and shared as a [Google Doc](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/edit), so I've republished here in case that list goes missing
 
