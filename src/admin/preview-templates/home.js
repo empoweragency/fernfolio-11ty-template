@@ -31,7 +31,31 @@ const Home = createClass({
             </div>
           </div>
 
-          <!-- Project List Placeholder (for illustrative purposes) -->
+          <!-- Article List Placeholder (for illustrative purposes) -->
+          <div class="list-header">
+            <h2 class="list-header__title">Articles</h2>
+            <a class="btn btn--outline btn--sm" href="/blog">View All</a>
+          </div>
+          <section>
+            <article class="article-card">
+              <a class="article-card__link" href="#">
+                <h5 class="article-card__title">Placeholder Article</h5>
+                <p class="article-card__summary">
+                  This is not a real article and is only visible in the CMS.
+                </p>
+              </a>
+            </article>
+            <article class="article-card">
+              <a class="article-card__link" href="#">
+                <h5 class="article-card__title">Placeholder Article</h5>
+                <p class="article-card__summary">
+                  This is not a real article and is only visible in the CMS.
+                </p>
+              </a>
+            </article>
+          </section>
+          
+                    <!-- Project List Placeholder (for illustrative purposes) -->
           <div class="list-header">
             <h2 class="list-header__title">Projects</h2>
             <a class="btn btn--outline btn--sm" href="/projects">View All</a>
@@ -65,31 +89,6 @@ const Home = createClass({
                 </p>
               </div>
             </div>
-          </section>
-
-
-          <!-- Article List Placeholder (for illustrative purposes) -->
-          <div class="list-header">
-            <h2 class="list-header__title">Articles</h2>
-            <a class="btn btn--outline btn--sm" href="/blog">View All</a>
-          </div>
-          <section>
-            <article class="article-card">
-              <a class="article-card__link" href="#">
-                <h5 class="article-card__title">Placeholder Article</h5>
-                <p class="article-card__summary">
-                  This is not a real article and is only visible in the CMS.
-                </p>
-              </a>
-            </article>
-            <article class="article-card">
-              <a class="article-card__link" href="#">
-                <h5 class="article-card__title">Placeholder Article</h5>
-                <p class="article-card__summary">
-                  This is not a real article and is only visible in the CMS.
-                </p>
-              </a>
-            </article>
           </section>
         </div>
       </main>
