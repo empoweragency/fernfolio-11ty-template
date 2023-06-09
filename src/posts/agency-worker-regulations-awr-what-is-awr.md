@@ -13,10 +13,6 @@ tags:
   - Agency Workers Regulations
   - AWR
 ---
-# Agency Worker Regulations (AWR): What is AWR?
-
-![Agency Worker Regulations (AWR): What is AWR? What does AWR mean?](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
 [Agency Workers Regulations](https://web.archive.org/web/20210803103912/https://en.wikipedia.org/wiki/Agency_Workers_Regulations_2010) aim to combat discrimination of people who work for employment agencies, by stating that agency workers should be no less favourably treated in pay and working time than their full-time counterparts, who do the same work.
 
 Similar to IR35, the guidance is designed to ensure fair treatment of contractors and freelancers, and ensure that there are clear distinctions and rules for each type of worker employed or contracted by a company.
