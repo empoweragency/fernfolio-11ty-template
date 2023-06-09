@@ -32,7 +32,8 @@ section: home
   {{ articlelist(
     articles = collections.post | reverse,
     show_tags = false,
-    limit = 5
+    limit = 5)
+  ) }}
     
   {# Projects #}
   <div class="list-header">
@@ -41,5 +42,4 @@ section: home
   </div>
   {% from "macros/projectlist.njk" import projectlist %}
   {{ projectlist(projects = collections.project | reverse) }}
-  ) }}
 </div>
