@@ -8,24 +8,20 @@ eleventyNavigation:
   key: About
   order: 1
 ---
+Want to ask me something? Email me at [ben@empower.agency](mailto:ben@empower.agency)
 
-### What is Fernfolio?
-An [Eleventy](https://www.11ty.io/) theme designed to simplify the process of creating a beautiful portfolio and blog. Tightly integrated with [Netlify CMS](https://www.netlifycms.org/) for flexible, Git-powered content management.
+**Book**
 
-### Why create this?
+* My book, [Freelance in 30 Days](https://web.archive.org/web/20210731065824/https://benrmatthews.com/freelance-in-30-days-book/ "Freelance in 30 Days: Get the confidence and knowledge to succeed at going freelance"), is available now on Gumroad
 
-**Reason #1:** I wanted a portfolio that was simple, fast, accessible, and integrated with a git-powered cms. Existing templates didn't perfectly fit my needs, so I decided to build my own template.
+**Brief summary of my story so far:**
 
-**Reason #2:** I wanted to learn more about [Eleventy](https://www.11ty.dev/) and static site generators in general. Building Fernfolio was a good excuse to dive deeper on that topic.
-
-### How do I edit content?
-Once your site is deployed and configured, add `/admin` to the end of the url (not using localhost) and hit refresh. From there, you should be able to login and see see the content management dashboard. You should be able to change most content here (e.g. page text, images, logo, articles, projects, etc.).
-
-### Further customizations
-If you want to take your customizations further, you will need to modify the project source code. Some customizations, like changing theme colors and fonts, are straightforward (those can be modified in the `variables.scss` file). Other customizations will require more in-depth solutions.
-
-If you get stuck or just have a question, feel free to create a [Github issue](https://github.com/TylerMRoderick/fernfolio-11ty-template/issues) and I will try to point you in the right direction.
-
-Thanks for checking out Fernfolio 👋 - [Tyler M. Roderick](https://www.tylerroderick.com/)
-
-![Fern in Hand](/src/assets/img/fern-forest.jpeg "Fern in Hand")
+* Director at [Empower](https://web.archive.org/web/20210731065824/https://empower.agency/), a digital communications agency. Clients include UN Refugee Agency, UNICEF, The Green Party, Amnesty International, The Engine Room, [GivePanel](https://web.archive.org/web/20210731065824/https://givepanel.com/), Open University, Full Fact, [One Home](https://web.archive.org/web/20210731065824/https://onehome.org.uk/) and Bang & Olufsen.
+* Awarded Young PR Professional of the Year and is [the youngest ever PR professional to be featured in PR Week](https://web.archive.org/web/20210731065824/http://www.prweek.com/news/1033386/Profile-Ben-Matthews---Young-gifted-charitable/ "Profile: Ben Matthews")
+* Founder of Bright One, a volunteer-run communications agency for the Third Sector, whose client experience includes Amnesty International, Centrepoint, St Dunstan’s and the London Green Fair
+* Founding member of Twestival, a series of fundraising events using Twitter, which raised over $2 million for numerous charities
+* Founding member of [33 Digital](https://web.archive.org/web/20210731065824/http://www.33-digital.com/ "33 Digital"), an international digital PR and marketing agency, where he managed accounts for O2, Microsoft, and the Financial Times among others
+* Former board member of [Charity Comms](https://web.archive.org/web/20210731065824/http://www.charitycomms.org.uk/ "Charity Comms"), the professional body for charity sector communications
+* Volunteer product manager at [Sunday Assembly](https://web.archive.org/web/20210731065824/http://sundayassembly.com/ "Sunday Assembly")
+* Helping people [learn to love freelancing](https://web.archive.org/web/20210731065824/https://freetrain.co/) with [FreeTrain](https://web.archive.org/web/20210731065824/https://freetrain.co/), a community with [online courses and resources for freelancers](https://web.archive.org/web/20210731065824/https://freetrain.co/)
+* Building [Good Here](https://web.archive.org/web/20210731065824/https://goodhere.org/), an open database of [social impact startups](https://web.archive.org/web/20210731065824/https://goodhere.org/) and funding.
