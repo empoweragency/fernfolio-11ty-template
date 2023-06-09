@@ -1,5 +1,5 @@
 ---
-title: "# Agency Worker Regulations (AWR): What is AWR?"
+title: "Agency Worker Regulations (AWR): What is AWR?"
 date: 2023-06-09T14:07:20.335Z
 summary: Agency Workers Regulations aim to combat discrimination of people who
   work for employment agencies, by stating that agency workers should be no less
