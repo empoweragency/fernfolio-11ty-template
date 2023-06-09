@@ -45,9 +45,7 @@ If there is a dispute about whether a worker is within the scope of the AWR or n
 
 Contractors and Freelancers need to work closely with their Agency / Umbrella Company / Client to ensure their employment ‘status’ is correct and so any obligations under the AWR are understood.  Contractors and Freelancers cannot, however, agree with any 3rd party to be outside of the AWR when this is not true.
 
-![Equal treatment is right to the same basic employment and working conditions as permanent staf](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
-Equal treatment is right to the same basic employment and working conditions as permanent staf
+Equal treatment is right to the same basic employment and working conditions as permanent staff.
 
 ### **What counts as equal treatment of agency workers?**
 
@@ -91,10 +89,6 @@ These opt-outs are being referred to as the [Swedish Derogation Model (SDM)](ht
 [In September 2013 the TUC lodged a formal complaint with the European Commission against the UK](https://web.archive.org/web/20210803103912/https://www.tuc.org.uk/news/tuc-lodges-complaint-against-government-failing-give-equal-pay-agency-workers) Government, for failing to enforce EU rules in respect of the Swedish Derogation model.
 
 If this minimum pay is paid for a period of at least 4 weeks after the end of the last assignment and the agency has taken reasonable steps to find another suitable assignment for the worker during that period, the Agency can terminate its contract with the Agency Worker without being subject to the equal treatment provisions on pay.
-
-![Some Agency Workers have been offered very low hours contracts.](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
-Some Agency Workers have been offered very low hours contracts.
 
 ## **How many hours a week should the permanent agency contract offer?**
 
@@ -168,8 +162,6 @@ These are:
 2. **Benefits:** Agency Workers have the right to be treated no less favourably than a comparable worker in relation to collective facilities and amenities at the hirers workplace, which could include canteens, toilets/shower facilities, childcare facilities and parking facilities (if there is a waiting list for any such facilities the Agency Worker would join the waiting list along with the hirers direct employees).
 3. **Rights:** Agency Workers will also have the right not to suffer a detriment for asserting their rights under the Regulations (see below).
 4. **Unfair Dismissal:** Agency Workers will have some limited unfair dismissal rights relating to a dismissal that they can show was related to reasons connected to the AWR (i.e. they were dismissed because they either alleged an agency or hirer had breached the regulations or they had bought a claim to Employment Tribunal under the Regulations).
-
-![Agency Workers have the right to request information from their agency or hirer to ensure they are receiving equal treatment](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 
 Agency Workers have the right to request information from their agency or hirer to ensure they are receiving equal treatment
 
