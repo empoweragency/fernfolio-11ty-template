@@ -121,6 +121,8 @@ The perceived value depends on a few factors: the alternatives open to the cust
 
 Using value-based pricing, you can charge at a perceived value, rather than the time it takes to actually complete the project. However, in order to be successful with this pricing strategy, you have to know your client’s business, their costs, and the alternatives available to them.
 
+Value based pricing assumes that the client has assessed the value of the project. Unless they are themselves doing the job for a client up the chain they often have no idea how much it’s worth to them. They should, but they often don’t. Perhaps a usage-based fee would work for you?
+
 **The Problem with Value-Based Pricing**
 
 The main difficulty in using value-based pricing is that the client will want to pay different prices between agencies or freelancers, between regions or  countries, and even for the same freelancer in different scenarios (depending on whether the freelancer is available now or later when others are available), so that a highly accurate value-based price for a project is pretty impossible to get.
