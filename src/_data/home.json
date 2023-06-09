@@ -1,6 +1,6 @@
 {
-  "title": "Fernfolio",
+  "title": "Ben Matthews",
   "image": "src/assets/img/fern-in-hand.jpeg",
   "image_alt": "Fern in hand",
-  "body": "The super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
+  "body": "Creating spaces for people to make positive social impact."
 }
