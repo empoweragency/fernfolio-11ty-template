@@ -42,8 +42,6 @@ Of course, a lot of the above depends on where you live, what particular kind of
 
 So don’t just take these rates at face value! Adjust them according to your individual circumstances.
 
- 
-
 ## **What do other freelance graphic designers charge?**
 
 If you’re still trying to work out your day rate as a graphic design freelancer, it can be helpful to see what other freelance graphic designers are charging.
@@ -89,8 +87,6 @@ In order to sell your services as a graphic design freelancer, you need to ask y
 You should also ask what their current challenges are with graphic design and their business in general, and what their *strategy* is to meet their goals and overcome those struggles.
 
 By setting a strategy, not just doing graphic design activity, you’ll be proving the value you bring to your client’s business.
-
-![What day rate do you charge as a freelance graphic designer?](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 
 What day [rate do you charge as a freelance](https://web.archive.org/web/20210803115827/https://benrmatthews.com/freelance-social-media-rates/) graphic designer?
 
