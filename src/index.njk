@@ -3,6 +3,7 @@ layout: base.njk
 section: home
 ---
 <div class="home-page">
+	<div class="home-page__bg-square"></div>
 
   {# Hero #}
   <div class="hero">
@@ -23,6 +24,14 @@ section: home
     </div>
   </div>
 
+  {# Projects #}
+  <div class="list-header">
+    <h2 class="list-header__title">Projects</h2>
+    <a class="btn btn--outline btn--sm" href="/projects">View All</a>
+  </div>
+  {% from "macros/projectlist.njk" import projectlist %}
+  {{ projectlist(projects = collections.project | reverse) }}
+
   {# Articles #}
   <div class="list-header">
     <h2 class="list-header__title">Articles</h2>
@@ -32,14 +41,6 @@ section: home
   {{ articlelist(
     articles = collections.post | reverse,
     show_tags = false,
-    limit = 5)
+    limit = 3
   ) }}
-    
-  {# Projects #}
-  <div class="list-header">
-    <h2 class="list-header__title">Projects</h2>
-    <a class="btn btn--outline btn--sm" href="/projects">View All</a>
-  </div>
-  {% from "macros/projectlist.njk" import projectlist %}
-  {{ projectlist(projects = collections.project | reverse) }}
 </div>
