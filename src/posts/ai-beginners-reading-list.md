@@ -1,5 +1,5 @@
 ---
-title: AI Beginner's Reading List
+title: AI Beginners Reading List
 date: 2023-06-09T19:40:00.640Z
 summary: The AI Beginners reading list is aimed towards the AI curious looking
   to go down the rabbit hole not the AI expert.
