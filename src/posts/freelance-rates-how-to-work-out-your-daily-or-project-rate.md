@@ -34,10 +34,6 @@ Here are my top [tips for calculating your freelance](https://web.archive.org/w
 4. **Ask the client for a budget:** Although you shouldn’t use this as the basis for your rate, you can use the budget set by a client as a figure to get started with. You can either negotiate this figure or use it as a benchmark for future projects.
 5. **Set a benchmark:** Read books and articles related to your industry that contain information about pricing. Some freelancers do talk about their rates online and that is a great place to begin. Also check forums and networking sites in your industry, as posting for advice on these sites can lead to you getting lots of helpful advice back on where to set your benchmark.
 
-![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
-*Working out your freelance rate can be complicated!*
-
 ## **Pricing Strategies for Setting your Freelance Rate**
 
 There are several strategies you can take for setting your freelance rate, each with their own benefits and disadvantages:
@@ -200,10 +196,6 @@ By adding unnecessary complexity to ‘saying yes’ you add distractions. Just 
 
 If you can lead your prospect so far down a path that psychologically they’ve given you control of closing process.
 
-![How To Raise Your Freelance Rates](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
-*How To Raise Your Freelance Rates*
-
 ## **How To Raise Your Freelance Rates**
 
 * **If you’re at capacity, raise your rate:** Your time has become limited, so in order for a client to work with you they have to meet the higher rate. If you keep raising your rate when you’re at capacity, you’ll eventually scale up your rate across all your clients and projects, upping your total freelance income in the process.
@@ -234,8 +226,6 @@ Experienced freelance graphic designers can charge more than £200 an hour. For 
 ### **How much do freelance writers charge?**
 
 As an intermediate freelance writer, if you charged £0.10 per word you could earn £100 for an article of 1,000 words. If you draft and edit that article it in just a few hours, you’ll be earning around £50 per hour. This is a great rate for a freelance writer and should give you a basis for what to charge as a freelance writer.
-
-![Freelance Rates - How To Work Out Your Daily or Project Rate](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 
 ## **Ready to set your freelance rates?**
 
