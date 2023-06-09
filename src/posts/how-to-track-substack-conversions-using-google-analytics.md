@@ -41,6 +41,8 @@ Here’s how…
 * It’ll ask you to enable Ecommerce feature.
 * Follow the quick steps.
 
+To activate e-commerce you must go to the administration part in Analytics, and there activate using the button.
+
 ## And that’s it!
 
 You can now track a lot more granular data than in your Substack analytics.
