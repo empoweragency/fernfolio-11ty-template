@@ -5,7 +5,7 @@ async function imageShortcode (src, alt, sizes, classes, loading = 'lazy') {
     widths: [25, 320, 640, 960, 1200, 1800, 2400],
     formats: ['webp', 'jpeg', 'png'],
     urlPath: '/assets/img/',
-    outputDir: '/src/assets/img/',
+    outputDir: '_site/assets/img/',
   });
 
   let imageAttributes = {
